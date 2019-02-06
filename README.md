@@ -1,13 +1,4 @@
-# Circuit-breaker Extension
-
-Add description ...
-
-
-...
-
-
-...
-
+# Circuit Breaker Module for Mule 4 applications
 
 Add this dependency to your application pom.xml
 
